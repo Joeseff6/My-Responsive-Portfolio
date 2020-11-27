@@ -10,7 +10,8 @@ Responsiveness refers to a webpage/web application's ability to properly present
 
 ## Tools to Include Responsive Features
 
-For this project, I will be using Bootstrap's CSS framework to include elements and features that will be responsive; such a feature is a navigation bar to help navigate through the webpage. I will also need to ensure my layout and images are responsive as well.
+For this project, I will be using Bootstrap's CSS framework to include elements and features that will be responsive; such a feature is a navigation bar to help navigate through the webpage. I will also need to ensure my layout and images are responsive as well. 
+Bootstrap is a handy tool when it comes to page responsiveness since it utilizes a grid system, laying out the webpage in columns and rows. I will be utilizing classes to specify how many columns an element will use depending on the pixel size of the webpage (-xs|-sm|-md|-lg|-xl).
 
 ## Objectives of this Project
 
