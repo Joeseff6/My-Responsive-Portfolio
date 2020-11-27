@@ -19,7 +19,7 @@ To complete the project, I will need to ensure the following:
 
 - [ ] Ensure my portfolio contains a responsive navigation bar, layout, and images.
 - [ ] Ensure the navigation bar stays consistent (responsive) under different environments.
-- [ ] Include links for 3 separate pages in the navigation bar, and check that all links work.
+- [x] Include links for 3 separate pages in the navigation bar, and check that all links work.
 - [ ] Use semantic HTML.
 - [ ] Validate my webpages using a validation service (Example: Lighthouse in ChromeDev Tools).
 - [ ] Input personal information on my portfolio
