@@ -1,3 +1,11 @@
 .example-element {
     margin-bottom: 1rem;
   }
+
+figure {
+  border: black solid 2px;
+}
+
+/* .container {
+  float: left;
+} */
