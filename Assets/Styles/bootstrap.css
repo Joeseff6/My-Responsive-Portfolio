@@ -9,3 +9,12 @@ figure {
 header {
   margin: 15px;
 }
+
+thead {
+  text-align: center;
+}
+
+li,td {
+  text-align: left;
+}
+
