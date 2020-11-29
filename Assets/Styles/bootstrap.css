@@ -3,7 +3,16 @@
 }
 
 figure {
+  /* Referenced MDN web docs for centered-styling. Source: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure */
+  background-color: #343a40;
+  border: 2px white solid;
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 275px;
+  padding: 13px;
+  margin: auto;
 }
+
 
 figcaption {
 }
@@ -34,4 +43,12 @@ body {
 
 .text-muted {
   color: white;
+}
+
+h2 {
+  margin: 10px 0 10px 0;
+}
+
+a {
+  font-weight: 500;
 }
