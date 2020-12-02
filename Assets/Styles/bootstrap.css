@@ -63,6 +63,14 @@ thead {
   color: white;
 }
 
+.navbar {
+  border: solid white 2px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
 .table-responsive {
   padding: 0 0 0 15px;
 }
