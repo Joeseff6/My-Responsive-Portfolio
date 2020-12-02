@@ -9,12 +9,19 @@ figure {
   border: 2px white solid;
   display: flex;
   flex-flow: column wrap;
-  max-width: 275px;
-  padding: 13px;
-  margin: auto;
+  width: 300px;
+  padding: 10px 0 0 10px;
+  margin: 15px auto 15px;
 }
 
-.container {
+
+img {
+  width: 280px;
+  height: 280px;
+  margin: 0 0 10px 0;
+}
+
+#contact-form{
   float: left;
 }
 
@@ -43,14 +50,6 @@ body {
   color: white;
 }
 
-.text-muted {
-  color: white;
-}
-
-h2 {
-  margin: 10px 0 10px 0;
-}
-
 a {
   font-weight: bold;
 }
@@ -68,3 +67,4 @@ h1 {
 .btn-primary:hover {
   background-color: maroon;
 }
+
