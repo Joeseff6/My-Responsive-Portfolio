@@ -3,6 +3,14 @@
   font-family: 'Noto Serif KR', serif;
 }
 
+a {
+  font-weight: bold;
+}
+
+body {
+  background-color: red;
+}
+
 figure {
   /* Referenced MDN web docs for centered-styling. Source: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure */
   background-color: #343a40;
@@ -14,15 +22,8 @@ figure {
   margin: 15px auto 15px;
 }
 
-
-img {
-  width: 280px;
-  height: 280px;
-  margin: 0 0 10px 0;
-}
-
-#contact-form{
-  float: left;
+h1 {
+  padding: 5px; 
 }
 
 header {
@@ -34,28 +35,18 @@ header {
   justify-content: center;
 }
 
-thead {
-  text-align: center;
+img {
+  width: 280px;
+  height: 280px;
+  margin: 0 0 10px 0;
 }
 
 li,td {
   text-align: left;
 }
 
-body {
-  background-color: red;
-}
-
-.figure-caption {
-  color: white;
-}
-
-a {
-  font-weight: bold;
-}
-
-h1 {
-  padding: 5px; 
+thead {
+  text-align: center;
 }
 
 .btn-primary {
@@ -68,3 +59,14 @@ h1 {
   background-color: maroon;
 }
 
+.figure-caption {
+  color: white;
+}
+
+.table-responsive {
+  padding: 0 0 0 15px;
+}
+
+#contact-form{
+  float: left;
+}
