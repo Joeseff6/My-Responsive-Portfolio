@@ -17,10 +17,10 @@ Bootstrap is a handy tool when it comes to page responsiveness since it utilizes
 
 To complete the project, I will need to ensure the following:
 
-- [ ] Ensure my portfolio contains a responsive navigation bar, layout, and images.
-- [ ] Ensure the navigation bar stays consistent (responsive) under different environments.
+- [x] Ensure my portfolio contains a responsive navigation bar, layout, and images.
+- [x] Ensure the navigation bar stays consistent (responsive) under different environments.
 - [x] Include links for 3 separate pages in the navigation bar, and check that all links work.
-- [ ] Use semantic HTML.
-- [ ] Validate my webpages using a validation service (Example: Lighthouse in ChromeDev Tools).
+- [x] Use semantic HTML.
+- [ ] Validate my webpages using a validation service.
 - [ ] Input personal information on my portfolio
 - [ ] Properly utilize the Bootstrap components and grid system.
