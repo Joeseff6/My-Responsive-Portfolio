@@ -11,16 +11,6 @@ body {
   background-color: red;
 }
 
-figure {
-  /* Referenced MDN web docs for centered-styling. Source: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure */
-  background-color: #343a40;
-  border: 2px white solid;
-  display: flex;
-  flex-flow: column wrap;
-  width: 300px;
-  padding: 10px 0 0 10px;
-  margin: 15px auto 15px;
-}
 
 h1 {
   padding: 5px; 
@@ -36,8 +26,8 @@ header {
 }
 
 img {
-  width: 280px;
-  height: 280px;
+  min-width: 280px;
+  min-height: 280px;
   margin: 0 0 10px 0;
 }
 
