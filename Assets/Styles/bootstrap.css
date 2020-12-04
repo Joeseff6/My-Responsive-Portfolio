@@ -13,12 +13,17 @@ body {
 
 h1, h2 {
   background-color: #343a40;
-  margin: 15px;
   border: solid white 2px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px; 
+  padding: 5px;
+  margin: 10px 0 10px 0;
+}
+
+i {
+  margin: 5px;
+  color: white;
 }
 
 img {
@@ -68,6 +73,13 @@ thead {
   float: left;
   display: block;
   clear: both;
+}
+
+#links {
+  background-color: #343a40;
+  border: solid white 2px;
+  width: 125px;
+  margin: 10px 0 0 0;
 }
 
 #portfolio {
