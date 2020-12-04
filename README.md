@@ -21,7 +21,7 @@ To complete the project, I will need to ensure the following:
 - [x] Ensure the navigation bar stays consistent (responsive) under different environments.
 - [x] Include links for 3 separate pages in the navigation bar, and check that all links work.
 - [x] Use semantic HTML.
-- [ ] Validate my webpages using a validation service.
+- [x] Validate my webpages using a validation service.
 - [x] Input personal information on my portfolio
 - [x] Properly utilize the Bootstrap components and grid system.
 
