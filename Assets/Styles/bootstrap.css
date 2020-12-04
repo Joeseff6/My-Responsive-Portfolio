@@ -11,18 +11,14 @@ body {
   background-color: red;
 }
 
-
 h1, h2 {
-  padding: 5px; 
-}
-
-header {
   background-color: #343a40;
   margin: 15px;
   border: solid white 2px;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 5px; 
 }
 
 img {
