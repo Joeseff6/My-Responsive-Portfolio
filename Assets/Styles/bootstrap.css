@@ -43,6 +43,7 @@ li,td {
   text-align: left;
 }
 
+
 thead {
   text-align: center;
 }
@@ -57,7 +58,7 @@ thead {
   background-color: maroon;
 }
 
-.navbar {
+.navbar, #table {
   border: solid white 2px;
 }
 
