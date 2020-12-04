@@ -22,5 +22,8 @@ To complete the project, I will need to ensure the following:
 - [x] Include links for 3 separate pages in the navigation bar, and check that all links work.
 - [x] Use semantic HTML.
 - [ ] Validate my webpages using a validation service.
-- [ ] Input personal information on my portfolio
-- [ ] Properly utilize the Bootstrap components and grid system.
+- [x] Input personal information on my portfolio
+- [x] Properly utilize the Bootstrap components and grid system.
+
+
+https://joeseff6.github.io/My-Responsive-Portfolio/
