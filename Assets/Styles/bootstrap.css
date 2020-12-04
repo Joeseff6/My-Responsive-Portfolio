@@ -58,18 +58,13 @@ thead {
   background-color: maroon;
 }
 
+
 .navbar, #table {
   border: solid white 2px;
 }
 
 .navbar-dark .navbar-nav .nav-link {
   color: white;
-}
-
-#contact-form{
-  float: left;
-  display: block;
-  clear: both;
 }
 
 #links {
