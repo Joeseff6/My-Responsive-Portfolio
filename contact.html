@@ -34,36 +34,54 @@
     </nav>
 <!-- End Navbar -->
 
-    <header>
-        <h1 class="example-element">Contact Information</h1>
-    </header>
 
 <!-- Form -->
-    <div class="container-fluid" id="contact-form">
-        <div class="col-md-6 col-lg-6 col-xl-6">
-        <form>
-            <div class="form-group">
-                <label for="inputname">Your Name</label>
-                <input type="text" class="form-control" id="inputname" placeholder="What is your name?">
-            </div>
+    <div class="container-fluid">
+        <header>
+            <h1 class="example-element">Contact Information</h1>
+        </header>
+        
+        <div class="row">
+            <form id="contact-form">
+                <div class="form-group col-sm-12">
+                    <label for="inputname">Your Name</label>
+                    <input type="text" class="form-control" id="inputname" placeholder="What is your name?">
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="inputemail">Email</label>
+                    <input type="email" class="form-control" id="inputemail" placeholder="Enter your email">
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="inputmessage">Message</label>
+                    <textarea class="form-control" id="inputmessage" rows="5" placeholder="Any inquiries welcome!"></textarea>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
         </div>
-        <div class="col-md-6 col-lg-6 col-xl-6">
-            <div class="form-group">
-                <label for="inputemail">Email</label>
-                <input type="email" class="form-control" id="inputemail" placeholder="Enter your email">
-            </div>
-        </div>
-        <div class="col-md-6 col-lg-6 col-xl-6">
-            <div class="form-group">
-                <label for="inputmessage">Message</label>
-                <textarea class="form-control" id="inputmessage" rows="5" placeholder="Any inquiries welcome!"></textarea>
-            </div>
-        </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-    </div>
 
-    <h2 class="example-element">Contact Information</h2>
+        <header>
+            <h2 class="example-element">Other Ways to Contact Me</h2>
+        </header>
+
+        <aside class="row">
+            <div class="col">
+                <div class="row">
+                    <a target="_blank" href="https://www.facebook.com/joseph.soria1">Facebook</a>
+                </div>
+                <div class="row">
+                    <a target="_blank" href="https://www.linkedin.com/in/joseph-soria-5a335845/">LinkedIn</a>
+                </div>
+                <div class="row">
+                    <a target="_blank" href="https://github.com/Joeseff6">Github</a>
+                </div>
+            </div>
+        </aside>
+        
+    </div>
+    
+
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
