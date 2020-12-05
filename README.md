@@ -34,27 +34,27 @@ To complete the project, I will need to ensure the following:
 
 #### * Extra Large Breakout Point
 
-![Screenshot of index.html after the extra large breakout point](/Assets/Images/index1.png)
+![Screenshot of index.html after the extra large breakout point](/Assets/Images/index1.PNG)
 
 #### * Iphone X Device
-![Screenshot of index.html on a IPhone X Device ](/Assets/Images/index2.png)
+![Screenshot of index.html on a IPhone X Device](/Assets/Images/index2.PNG)
 
 ### My Portfolio Page
 
 #### * Extra Large Breakout Point
 
-![Screenshot of portfolio.html after the extra large breakout point](/Assets/Images/portfolio1.png)
+![Screenshot of portfolio.html after the extra large breakout point](/Assets/Images/portfolio1.PNG)
 #### * Iphone X Device
 
-![Screenshot of portfolio.html on a IPhone X Device ](/Assets/Images/portfolio2.png)
+![Screenshot of portfolio.html on a IPhone X Device ](/Assets/Images/portfolio2.PNG)
 
 ### My Contact Page
 
 #### * Extra Large Breakout Point
 
-![Screenshot of contact.html after the extra large breakout point](/Assets/Images/contact1.png)
+![Screenshot of contact.html after the extra large breakout point](/Assets/Images/contact1.PNG)
 
 #### * Iphone X Device
-![Screenshot of contact.html on a IPhone X Device ](/Assets/Images/contact2.png)
+![Screenshot of contact.html on a IPhone X Device ](/Assets/Images/contact2.PNG)
 
 
