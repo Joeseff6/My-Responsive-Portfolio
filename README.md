@@ -44,8 +44,8 @@ To complete the project, I will need to ensure the following:
 #### * Extra Large Breakout Point
 
 ![Screenshot of portfolio.html after the extra large breakout point](./Assets/Images/portfolio1.png)
-
 #### * Iphone X Device
+
 ![Screenshot of portfolio.html on a IPhone X Device ](./Assets/Images/portfolio2.png)
 
 ### My Contact Page
