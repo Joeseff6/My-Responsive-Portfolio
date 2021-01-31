@@ -1,6 +1,6 @@
 * {
   /* Set global styling to all webpages */
-  color: white;
+  color: #FFF8F0;
   font-family: 'Noto Serif KR', serif;
 }
 
@@ -10,7 +10,7 @@ a {
 
 body {
   /* Give a red background to all webpages */
-  background-color: red;
+  background-color: #BC0624;
 }
 
 h1, h2, h3, h4, span {
@@ -42,10 +42,10 @@ img {
   min-width: 280px;
   min-height: 280px;
   border: solid white 2px;
+  border-radius: 15px;
   background-color: #343a40;
   width: 300px;
   height: 300px;
-
 }
 
 li {
@@ -67,7 +67,7 @@ td, thead {
 
 .btn-primary:hover {
   /* Change button color to marron while hovered over */
-  background-color: maroon;
+  background-color: #01BAEF;
 }
 
 .navbar, #table, .headings {
@@ -93,7 +93,4 @@ td, thead {
   padding: 0 0 0 0;
 }
 
-#portfolio {
-  /* Image used from website www.uh.edu*/
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOYAAADbCAMAAABOUB36AAAAhFBMVEX////HACXFAA/14OHGAB/WZnPHBCnEAADFABnruL3FABXEAArIEC767u/GAB3XbnjRTFzhk5zOPE7/+vzloqnz1dnRRVjvx8vuwMbcf4nWYG766+3KDjLxzdHgjJbSUWDNNUnNMUb24uTMJT7dhI3knqbXcXvqsrjTWGbnqrHbeYTSUF83zJhfAAAD8UlEQVR4nO3c4VLaTBhA4SSEDSQLYhCkUhTbT8Wv939/TTZ0RjdvNjBl4K2c5yfrMp4yJUtcNooAAAAAAAAAAAAAAAAAAAAAAAAAnMJk0GfizZj3zvhxkZKgxywJyx69GYveGT8vUhJ0m1oTdzM2vfVmLJLgjNia8iIlQbepmQ27PRkh02wDM4ZGZ2Z+Hxje5EJm/F/oGXOlmavA8L2Y+S0wY07m5ZBZI7MDmRd0PZnXcd0022XtwRtYuYe30irI/qyHSv81vSvdEyldBVlTi7fewDhxj4trWjdlOvSfKm9maMx8zGpF+3cbj2zqxtqfUGq5jW+8gepfbOTGFH5CieZOIWSmL82gOGORC5mj1VycoUYmZE7vAhMGiZAZfDfTgEwZmYqRKSNTMTJlZCpGpoxMxciUkakYmTIyFTtR5ubEv9apSZnp7aTbRrzlNQ7MqFz8XpiUadOiW8cNzMCMomjdCz07MTO890LKPHK3xtlJmWb5etPpwQiZZtc941XYrXF24lvQe2DC+ui3IOGPa2d3hgvKisxzIVNGZgcyz+aaM6/jumnK4UPNW3APnuoHd+IqaOaG/Nf01T3NTOkqaL9CNV7mIutZ0xZjb2Cb6l3TvmXuU4W11s9MbOw+b/hbbKpMZ+RnlsYmWj+hzNe1yXfTzoz/n7gxb4bLNEbKTNyTrRV+3twTM+XNbC9VZvz8ywiZ2d//hieR2e/+i9M4InMY2/Q5eo01ZxoTD6SBwzOfpna0q2MVZy5MbMStmIdmzsvUJvV7r+rMaPKc2kxY9hyYubaxzdz1QndmFO1GNmn//odlLqqrYtYsmrRnRt8Sm+/8Bw/KXBXG/FnPqs+M7jKbbr2oQzLf60XEnzewG/WZ1eraxHYx/3gDWV4efPqRx6y6Xr5t7p3NTvN1c29QLT1HH03Fxd7nn3FrvGm+J66ClGVG8+3UfCJkZiYs0Z9Z/d+affRLyCxnYaV//dWY6Wn/3zzeP5BpyTwUmVqQeTAytSDzYGRq0c5c5DbsH1i6twiZiQ2u3G3+VTJtd+gXejWDXzp+n36ZzNBXyO/I1ItMGZmKkSkjU6XmBAP5rrt4IELz2EsqZBZqz0N4cwdSZPIWCzfk/1mpORAjFbdYFOKBGArUG2bcYSWtDTNFs3iNW2eS7I83ad91jzuON1FgPDLP7sSYpZ/pjp4pjZDZHFaz9e+6Pyw7DqtRoH8zWztT/Wa2tv6tiUKm9q2JbWTWyOxA5gWRWftCmddx3TTLwJnCO3EV9BSYoWETeFv/FxulNa3yLza2vfUe+O1vAj/+UHEF+g98Xx89Q96ZDAAAAAAAAAAAAAAAAAAAAAAAAOBYvwGGaXWo6vQmcwAAAABJRU5ErkJggg==)
-}
+
