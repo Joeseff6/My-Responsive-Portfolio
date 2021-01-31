@@ -74,8 +74,8 @@ thead {
   background-color: maroon;
 }
 
-.navbar, #table {
-  /* Give borders to table and navbar */
+.navbar, #table, .headings {
+  /* Give borders to table, heading elements, and navbar */
   border: solid white 2px;
 }
 
