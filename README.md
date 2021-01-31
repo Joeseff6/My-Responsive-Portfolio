@@ -3,6 +3,12 @@
 ## Link to My Deployed Webpage
 
 **https://joeseff6.github.io/My-Responsive-Portfolio/**
+
+## Link to My Resume
+
+### ___After clicking link, click the download button to open my resume___ ###
+
+**https://github.com/Joeseff6/My-Responsive-Portfolio/blob/main/Assets/Files/JosephSoriaResume.docx**
 ## Project Description
 
 I will be making a personal portfolio for the world to see. The kicker to this project is that I will make not only use semantics to make my webpage accessible, but I must also make sure it is responsive.
