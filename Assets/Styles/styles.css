@@ -13,15 +13,18 @@ body {
   background-color: red;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, span {
   /* Style headings to center and box to all webpages*/
   background-color: #343a40;
-  border: solid white 2px;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 5px;
   margin: 10px 0 10px 0;
+}
+
+span {
+  font-size: larger;
 }
 
 i {
@@ -85,9 +88,9 @@ thead {
   /* Style links in contact.html to provide box */
   background-color: #343a40;
   border: solid white 2px;
-  width: 125px;
-  margin: 10px 0 0 0;
+  margin: 10px 0 0 16px;
 }
+
 
 #living {
   /* Negate padding provided by bootstrap which was pushing content in index.html */
