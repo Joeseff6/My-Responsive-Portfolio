@@ -97,6 +97,12 @@ td, thead {
   width: 463px;
 }
 
+#download {
+  background-color: #343a40;
+  border: solid white 2px;
+  padding: 3px 5px 3px 5px ;
+}
+
 @media (max-width: 375px) {
   #resume{
     height: 388px;
