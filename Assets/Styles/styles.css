@@ -44,8 +44,10 @@ img {
   border: solid white 2px;
   border-radius: 15px;
   background-color: #343a40;
+}
+
+.imgSize {
   width: 300px;
-  height: 300px;
 }
 
 li {
@@ -97,9 +99,15 @@ td, thead {
   width: 463px;
 }
 
-#download {
+#download, .projectBox {
   background-color: #343a40;
   border: solid white 2px;
+  padding: 3px 5px 3px 5px ;
+}
+
+.deployedLinks {
+  display: flex;
+  justify-content: center;
   padding: 3px 5px 3px 5px ;
 }
 
