@@ -87,10 +87,19 @@ td, thead {
   margin: 10px 0 0 16px;
 }
 
-
 #living {
   /* Negate padding provided by bootstrap which was pushing content in index.html */
   padding: 0 0 0 0;
 }
 
+#resume {
+  height: 600px;
+  width: 463px;
+}
 
+@media (max-width: 375px) {
+  #resume{
+    height: 388px;
+    width: 300px;
+  }
+}
