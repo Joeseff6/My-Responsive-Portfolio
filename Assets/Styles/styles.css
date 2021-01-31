@@ -21,6 +21,7 @@ h1, h2, h3, h4, span {
   justify-content: center;
   padding: 5px;
   margin: 10px 0 10px 0;
+  text-align: center;
 }
 
 span {
@@ -53,12 +54,7 @@ li {
 }
 
   /* Center-align column headers in index.html */
-td {
-  text-align: center;
-}
-
-thead {
-  /* Center-align table header in index.html */
+td, thead {
   text-align: center;
 }
 
