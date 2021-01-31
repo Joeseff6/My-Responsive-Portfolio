@@ -13,7 +13,7 @@ body {
   background-color: #BC0624;
 }
 
-h1, h2, h3, h4, span {
+h1, h2, h3, h4, h5, span {
   /* Style headings to center and box to all webpages*/
   background-color: #343a40;
   display: flex;
