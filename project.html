@@ -65,10 +65,55 @@
             </div>   
             <div class="row justify-content-center">
                 <div class="col-5">
-                    <h4 class="headings" style="margin-top: 20px;">My Projects</h4>
+                    <h4 class="headings"> My Showcased Projects</h4>
                 </div>
             </div>
             <section class="row justify-content-center">
+                <article class="col projectBox">
+                    <h4>Song N' Seek Web Application</h4>
+                    <a class="deployedLinks" href="https://song-n-seek.herokuapp.com/" target="_blank">Song N' Seek Deployed Link</a>
+                    <a class="deployedLinks" href="https://github.com/Joeseff6/SongNSeek" target="_blank">Song N' Seek Github Repo</a>
+                    <img src="./Assets/Images/Homepage.JPG" class="img-fluid" alt="A screenshot of the homepage for Song N' Seek">
+                    <p>
+                        Song N' Seek is the perfect example of user interaction on the client-side to communicate with server-side applications.
+                        Originally meant to be a streaming app like Spotify or Apple Music, this application works as a development project towards something
+                        as great as the aforementioned. Users will create a new account by submitting information such as a username, email, and <em>(encrypted)</em> 
+                        password. 
+                    </p>
+                    <p>
+                        Upon user creation, or login if an account exists, the user can search for a songs in the dashboard and will be presented with a list 
+                        of options, which is supplied by the Deezer API via GET request. Upon selection, the API information will then be sent to a database (MySQL) 
+                        via POST request and the information is stored. At that point, the user can visit the artists, albums, and songs section of the application 
+                        to see their results!
+                    </p>
+                    <p>
+                        This application is a team project that utilizes a full tech stack. Javascript and Jquery is used for logic, 
+                        Express.js is used to run the server along with Node.js for package management, MySQL is used for the database 
+                        as well as Sequelize for ORM, and the MVC (Model-View-Controller) paradigm was used for content focus. We used Handlebars.js
+                        as our template engine to easily change the content of the application upon user interaction. 
+                         
+                    </p>
+                </article>
+                <article class="col projectBox">
+                    <h4>Tech Talk Web Application</h4>
+                    <a class="deployedLinks" href="https://bloggers-blog123.herokuapp.com/" target="_blank">Tech Talk Deployed Link</a>
+                    <a class="deployedLinks" href="https://github.com/Joeseff6/BloggersBlog" target="_blank">Tech Talk Github Repo</a>
+                    <img src="./Assets/Images/Capture3.PNG" class="img-fluid" alt="A screenshot of a post on the Tech Talk">
+                    <p>
+                        The Tech Talk application is an actual webpage that allows users to create a new account or log in to an existing account.
+                        Information provided by the user is stored in MySQL for database relations, which also features encrypted passwords! Upon login 
+                        or signup, the user will be taken to a dashboard where they will see all available posts left by other users. Each post can be viewed 
+                        individually, and the comments related to the post will also be displayed in future developments; currently a user can post a comment, 
+                        but it will not be shown.
+                    </p>
+                    <p>
+                        This application is a solo project that created from scratch from the ground up. It is my first truly full-stack application that features 
+                        both front-end and back-end technologies. What makes this project full-stack is the fact that I used HTML and CSS w/ Bootstrap to create 
+                        front end client interfaces, while programming logic with Javascript to send GET/POST requests to a database. Also, this application 
+                        hosts a server connection while connecting with MySQL's server to allow back and forth communication with the application. This app 
+                        demonstrates the CRUD (Create, Read, Update, and Delete) methodology.
+                    </p>
+                </article>
                 <article class="col projectBox">
                     <h4>Suitcase Travel Web Application</h4>
                     <a class="deployedLinks" href="https://joeseff6.github.io/Suitcase/" target="_blank">Suitcase Deployed Link</a>
@@ -87,40 +132,6 @@
                         individual branches, and then creating pull requests and resolving conflicts for reviewal. Once reviewed,
                         we would approve and merge the code into a Development branch, and once the final product was ready, we pulled
                         it from development and merged into our production branch.
-                    </p>
-                </article>
-                <article class="col projectBox">
-                    <h4>Weather Central Web Application</h4>
-                    <a class="deployedLinks" href="https://joeseff6.github.io/WeatherCentral/" target="_blank">Weather Central Deployed Link</a>
-                    <a class="deployedLinks" href="https://github.com/Joeseff6/WeatherCentral" target="_blank">Weather Central Github Repo</a>
-                    <img src="./Assets/Images/weatherCentral.PNG" class="img-fluid" alt="A screenshot of the front page of my Weather Central application">
-                    <p>
-                        The Weather Central application allows the user to search by a city, or a city and state, and return weather information
-                        in that city. The current weather is displayed, as well as the 5 day forecast available at that time. Other features include 
-                        a history list that the user can click and retrieve the weather, as well as persistence allowing the most recent search to 
-                        load upon page refresh.
-                    </p>
-                    <p>
-                        This application is a solo project that I created from scratch using HTML, CSS, and Javascript. It features Third-party APIs 
-                        such as jQuery, bootstrap, and Google fonts. I also utilized the Server-side API OpenWeather to retrieve weather data to 
-                        dynamically populate fields on the webpage using Javascript and the jQuery CDN. 
-                    </p>
-                </article>
-                <article class="col projectBox">
-                    <h4>Full Stack Coding Quiz Web Application</h4>
-                    <a class="deployedLinks" href="https://joeseff6.github.io/FullStackCodingQuiz/" target="_blank">Full Stack Quiz Deployed Link</a>
-                    <a class="deployedLinks" href="https://github.com/Joeseff6/FullStackCodingQuiz" target="_blank">Full Stack Quiz Github Repo</a>
-                    <img src="./Assets/Images/fullStackQuiz.PNG" class="img-fluid" alt="A screenshot of the front page of my Full Stack Coding quiz web application">
-                    <p>
-                        The Full Stack Coding Quiz will test the user's knowledge on basic full stack knowledge and terms, while maintining their score.
-                        A timer is counting down, so act fast! If the user gets a question right, they will gain a point. If the user answers 
-                        incorrectly, time is deducted and no points are added. The game ends when the user answers all 25 questions or runs out of time.
-                        Upon ending the game, the user will be re-located to the highscore page, where their score is stored after submitting their initials.
-                        Additional features include persisting the scores so that they load upon page refresh.
-                    </p>
-                    <p>
-                        This application is a solo project that utilizes Javascript for game functionality and data persistence. Bootstrap was used
-                        for the styling of this application.
                     </p>
                 </article>
             </section>
